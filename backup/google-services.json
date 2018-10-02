@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "718424747861",
+    "firebase_url": "https://uinicgame.firebaseio.com",
+    "project_id": "uinicgame",
+    "storage_bucket": "uinicgame.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718424747861:android:bdcf8b766f627106",
+        "android_client_info": {
+          "package_name": "rasyidk.fa.uinic_game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718424747861-uh8n91sctmech3i76jr6ubr8bo9c9etk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "rasyidk.fa.uinic_game",
+            "certificate_hash": "20cf4c7fcd793765507cd28ca893086056ec910a"
+          }
+        },
+        {
+          "client_id": "718424747861-uj0ud9e6sitr64tkbq776tgkov329lep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAVOR3JWNJUR4eIdvvn57lFM3C9Afa5yo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718424747861-uj0ud9e6sitr64tkbq776tgkov329lep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
